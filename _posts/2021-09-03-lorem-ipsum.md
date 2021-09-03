@@ -9,11 +9,11 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-- Lorem
-- Ipsum
-  tags:
-- Lorem
-- Ipsum
+  - Lorem
+  - Ipsum
+tags:
+  - Lorem
+  - Ipsum
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dictum felis tortor, quis semper enim viverra id. Donec iaculis dapibus mollis. In ac erat sit amet tellus rhoncus mollis. Phasellus et est metus. Ut ornare luctus est, sit amet viverra purus tincidunt sit amet. Phasellus sed hendrerit ex, ut volutpat quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam viverra, lectus auctor rhoncus vestibulum, magna mi mattis libero, ac feugiat nisl nisl et magna. Nullam nec convallis turpis, a sollicitudin ligula. In hac habitasse platea dictumst. Nullam quis elementum magna. Vivamus volutpat a risus nec accumsan.
