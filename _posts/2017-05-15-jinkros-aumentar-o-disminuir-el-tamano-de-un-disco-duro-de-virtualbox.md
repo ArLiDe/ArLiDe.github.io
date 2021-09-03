@@ -11,7 +11,17 @@ header:
 categories:
   - Jinkros
   - Tutoriales
+  - Programas
 tags:
+  - Aumentar
+  - Disminuir
+  - GNU
+  - GNU/Linux
+  - Linux
+  - Máquina Virtual
+  - Tamaño
+  - VBox
+  - VBoxManage
   - VirtualBox
 ---
 
