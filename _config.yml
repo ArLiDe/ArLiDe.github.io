@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "ArLiDe"
   avatar           : "/assets/images/avatar.png"
-  bio              : #"Pentester, CTF player<br>HackTheBox ATeam"
+  bio              : "Posts de la Comunidad de <a href="https://t.me/ArchLinuxYDerivadas">@ArchLinuxYDerivadas<a/>"
   location         : "World"
   email            : #"info@snowscan.io"
   uri              :
@@ -131,6 +131,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  telegram         : "ArchLinuxYDerivadas"
 
 
 # Reading Files
