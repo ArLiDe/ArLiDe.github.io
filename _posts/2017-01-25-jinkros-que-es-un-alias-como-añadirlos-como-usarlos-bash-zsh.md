@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Qué es un alias, cómo añadirlos y usarlos (BASH y ZSH)
-excerpt: "Un ***alias*** será un *apodo* que usaremos para invocar un comando. Un alias puede estar formado por una o varias palabras, números o caracteres (normalmente es una combinación corta, lógica y/o fácil de recordar). Según el uso que le demos a los alias pueden llegar a ahorrarnos mucho tiempo a la hora de manejar nuestra terminal en GNU/Linux o simplemente los podemos usar para personalizar aún más nuestro sistema."
+excerpt: "Un alias será un apodo que usaremos para invocar un comando. Un alias puede estar formado por una o varias palabras, números o caracteres (normalmente es una combinación corta, lógica y/o fácil de recordar). Según el uso que le demos a los alias pueden llegar a ahorrarnos mucho tiempo a la hora de manejar nuestra terminal en GNU/Linux o simplemente los podemos usar para personalizar aún más nuestro sistema."
 date: 2017-01-10
 classes: wide
 header:
@@ -9,12 +9,12 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - @Jinkros
+  - Jinkros
   - Tutoriales
   - Programas
 tags:
-  - .bashrc
-  - .zsh
+  - bashrc
+  - zsh
   - Alias
   - Bash
   - Zsh
@@ -30,6 +30,8 @@ tags:
   - RC
   - Shell
 ---
+
+
 
 Un ***alias*** será un *apodo* que usaremos para invocar un comando. Un alias puede estar formado por una o varias palabras, números o caracteres (normalmente es una combinación corta, lógica y/o fácil de recordar).
 
