@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "ArLiDe"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Posts de la Comunidad de <a href="https://t.me/ArchLinuxYDerivadas">@ArchLinuxYDerivadas</a>"
+  bio              : 'Posts de la Comunidad de <a href="https://t.me/ArchLinuxYDerivadas">@ArchLinuxYDerivadas</a>'
   location         : "World"
   email            : #"info@snowscan.io"
   uri              :
