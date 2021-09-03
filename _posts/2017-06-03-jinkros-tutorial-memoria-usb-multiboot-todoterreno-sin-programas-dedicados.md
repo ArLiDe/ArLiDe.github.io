@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Tutorial: memoria USB multiboot todoterreno (sin programas dedicados)
+title: Tutorial memoria USB multiboot todoterreno (sin programas dedicados)
 excerpt: "En esta entrada os enseñaré a preparar una socorrida memoria USB que podrá contener y ejecutar tantas imágenes distros GNU/Linux como pueda almacenar. Tendremos la opción tanto instalarla como de usarla en modo live. Y por si esto os pareciera poco, será compatible tanto con ordenadores de 32 y 64 bits y que tengan BIOS o UEFI."
 date: 2017-06-03
 classes: wide
