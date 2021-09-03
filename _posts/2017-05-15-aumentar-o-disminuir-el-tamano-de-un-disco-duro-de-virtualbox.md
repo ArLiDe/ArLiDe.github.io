@@ -11,7 +11,7 @@ header:
 categories:
 - Jinkros
 - Tutoriales
-  tags:  
+  tags:
 - VirtualBox
 ---
 
@@ -19,7 +19,7 @@ Como habéis leído en el título del post, hoy os enseñaré a aumentar o dismi
 
 ![](/assets/images/Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-01.png)
 
-El procedimiento es tan sencillo como ejecutar este comando en vuestra terminal favorita (adaptándolo por supuesto a vuestro caso):
+El procedimiento es tan sencillo como ejecutar este comando en vuestra terminal favorita (adaptándolo por supuesto a vuestro caso)
 
 ```shell
 VBoxManage modifyhd /RUTA/AL/ARCHIVO.vdi --resize TAMAÑONUEVOENMEGABYTES
@@ -29,7 +29,7 @@ Deberéis reemplazar la ruta hacia vuestro archivo de disco virtual .vdi y el ta
 
 ![](/assets/images/Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-02.png)
 
-Y aquí el resultado:
+Y aquí el resultado
 
 ![](/assets/images/Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-03.png)
 
