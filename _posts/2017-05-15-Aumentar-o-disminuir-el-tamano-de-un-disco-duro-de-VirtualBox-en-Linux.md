@@ -15,8 +15,6 @@ categories:
 - VirtualBox
 ---
 
-# Aumentar o disminuir el tamaño de un disco duro de VirtualBox en Linux
-
 Como habéis leído en el título del post, hoy os enseñaré a aumentar o disminuir el tamaño asignado a un disco duro virtual de VirtualBox en Linux. En la siguiente imagen podéis ver como el tamaño inicial de mi disco virtual es de 1,8GB.
 
 ![](/assets/images/Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-01.png)
