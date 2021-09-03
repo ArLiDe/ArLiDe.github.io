@@ -5,7 +5,7 @@ excerpt: "Como habéis leído en el título del post, hoy os enseñaré a aument
 date: 2017-05-15
 classes: wide
 header:
-  teaser: /assets/images/Jinkros/2017-05-15_Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-01.png
+  teaser: /assets/images/Aumentar-o-disminuir-el-tamaño-de-un-disco-duro-de-VirtualBox-en-Linux/captura-01.png
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
